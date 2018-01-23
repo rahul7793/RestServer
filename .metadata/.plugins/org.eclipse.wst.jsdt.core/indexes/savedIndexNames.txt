@@ -1,0 +1,2 @@
+INDEX VERSION 1.3+C:\Users\i\Documents\GitHub\RestServer\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2716707536.index
